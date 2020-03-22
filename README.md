@@ -1,19 +1,19 @@
 # Android interview questions and answers
-# Вопросы и ответы для собеседования по Android
 ## Computer science
 <details>
   <summary>Click to expand</summary>
   
+  ### Алгоритмы
   IDLE
-  IDLE
-  IDLE
+  ### Структуры данных
+  ХХХ
   </details>
   
   ## Java/Kotlin
 <details>
   <summary>Click to expand</summary>
   
-  IDLE
+  ### ООП
   IDLE
   IDLE
   </details>
